@@ -19,7 +19,7 @@ layout: default
 <dd>404</dd>
 <dt>Birthplace</dt>
 <dd>Not Found</dd>
-<dt>Reddit</dt>
+<dt>Twitter X</dt>
 <dd>https://twitter.com/theproffhacker</dd>
 <dt>Telegram</dt>
   <dd>https://t.me/theproffhacker</dd>
